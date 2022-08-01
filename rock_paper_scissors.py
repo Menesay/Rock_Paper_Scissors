@@ -26,8 +26,6 @@ def game():
         user = input("rock (1), scissors (2), paper (3): ")
         print("Please enter a valid string or integer")
 
-        
-
 
     #resut=0 draws
     #result=1 win
